@@ -1,0 +1,10 @@
+{  
+    "server":"162.245.239.74",  
+    "server_port":34567,  
+    "local_address": "127.0.0.1",  
+    "local_port":1080,  
+    "password":"dongtaiwang.com",  
+    "timeout":300,  
+    "method":"aes-256-cfb"
+}
+
